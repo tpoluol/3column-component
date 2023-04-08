@@ -6,9 +6,9 @@ function App() {
   console.log(data);
   return (
     <main className="min-h-screen flex justify-center items-center">
-      <section className="flex flex-col max-w-[200px]">
+      <section className="flex flex-col md:flex-row">
         {data.map((data, index) => {
-          return <Card data={data} key={index} />;
+          return <Card data={data} key={index} index={index} />;
         })}
       </section>
     </main>
