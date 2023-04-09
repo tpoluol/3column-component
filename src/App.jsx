@@ -6,7 +6,7 @@ function App() {
   console.log(data);
   return (
     <main className="min-h-screen flex justify-center items-center">
-      <section className="flex flex-col md:flex-row">
+      <section className="flex flex-col md:flex-row rounded-xl overflow-hidden">
         {data.map((data, index) => {
           return <Card data={data} key={index} index={index} />;
         })}

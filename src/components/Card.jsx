@@ -29,7 +29,7 @@ export default function Card({ data, index }) {
   let ee = index;
   return (
     <article
-      className={`${round[ee]} md:rounded-none md:${round2[ee]}  max-w-[250px] ${colorVariants[color]} flex flex-col md:flex p-10 gap-5`}
+      className={` max-w-[250px] ${colorVariants[color]} flex flex-col md:flex p-10 gap-5`}
     >
       <div className="max-w-[50px]">
         <img src={`${urlVariants[url]}`} alt="asd" />
