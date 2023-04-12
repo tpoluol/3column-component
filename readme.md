@@ -1,15 +1,16 @@
-# **3-column preview card component - Solution**
+# **Profile card component - Solution**
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
+This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
 
 <br>
 
 ## **Preview**
 
-<div align="start">
+<div align='start'>
 <img src="./public/desktop-design.JPG" width="500px">
-<img src="./public/mobile-design.JPG" width="200px">
+<img src="./public/mobile-design.JPG" width="300px">
 </div>
+
 <br>
 
 ## **Links**
