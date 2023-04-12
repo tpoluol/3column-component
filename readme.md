@@ -7,7 +7,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ## **Preview**
 
 <div align='start'>
-<img src="./public/desktop-design.JPG" width="500px">
+<img src="./public/desktop-design.JPG" width="800px">
 <img src="./public/mobile-design.JPG" width="300px">
 </div>
 
